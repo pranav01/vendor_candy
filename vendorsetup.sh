@@ -33,3 +33,4 @@ add_lunch_combo candy5_togari_gpe-userdebug
 add_lunch_combo candy5_v410-userdebug
 add_lunch_combo candy5_yuga-userdebug
 add_lunch_combo candy5_z3-userdebug
+add_lunch_combo candy5_lettuce-userdebug
